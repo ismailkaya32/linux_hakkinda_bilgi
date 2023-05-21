@@ -12,7 +12,8 @@ Aslında GNU ile Linux birbirlerinin eksikliklerini tamamlayan iki temel yapıd�
 
 ---
 
-![linuxekran](https://github.com/ismailkaya32/linux-hakk-nda-bilgi/assets/122615472/ad1650a1-1160-4a9c-a7a2-6e369bddb0f0)
+![linuxekran](https://github.com/ismailkaya32/linux_hakkinda_bilgi/assets/122615472/4e15fc8b-9817-4f33-b6f1-89e41f465573)
+
 
 
 ---
@@ -20,9 +21,40 @@ Aslında GNU ile Linux birbirlerinin eksikliklerini tamamlayan iki temel yapıd�
 
 LİNUX'UN KULLANILDIĞI YERLER:
 
+![linux_nerede](https://github.com/ismailkaya32/linux_hakkinda_bilgi/assets/122615472/89ccbf88-d439-4ce3-b1f9-726cca7c867f)
 
-![linux nerede](https://github.com/ismailkaya32/linux-hakk-nda-bilgi/assets/122615472/6354d673-adc5-48b6-a05f-bba46b4ac480)
+
 
 
 ---
 
+LİNUX KÖK KLASÖRLERİ:
+
+
+![kök_dizini](https://github.com/ismailkaya32/linux_hakkinda_bilgi/assets/122615472/74e7aec4-7caf-47ad-af84-c6751d40f6f3)
+
+
+
+
+/bin(binary) : Kullanıcının çalıştırdığı komutlar bulunur.
+
+/sbin        : Sistem(root) tarafından çalıştırılabilen komutlar bulunur.
+
+/dev         : Donanım dosyaları bulunur.
+
+/etc         : Konfigürasyon(ayar) dosyaları bulunur. Örneğin; DNS, vb.
+
+/var         : Değişken(dinamik) dosyalarıdır.Örneğin; log, wwww gibi web sunucuları, vb.
+
+/tmp         : Geçici dosyalar ve geçici klasörler bulunur.
+
+/proc        : Sistemin işlettiği süreç bilgilerini depolar.
+
+/media       : USB, CD, vb. gibi disklerin içindeki sürücü ve klasörleri bulunur.(Resim, video gibi şeyler gözükmez.)  
+
+/boot        : Linux açılırken çalıştırılan programlar bulunur.
+
+/srv         : Servis dosyaları bulunur. (Linux içinde ve arka planda çalışan programlar ve servisler) 
+
+/lib         : Kütüphaneyi barındırır.       
+                    
