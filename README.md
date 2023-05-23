@@ -32,8 +32,6 @@ LİNUX'UN KULLANILDIĞI YERLER:
 
 ![kök_dizini](https://github.com/ismailkaya32/linux_hakkinda_bilgi/assets/122615472/74e7aec4-7caf-47ad-af84-c6751d40f6f3)
 
-Resimlerin alındığı link: 
-
 
 /bin(binary) : Kullanıcının çalıştırdığı komutlar bulunur.
 
